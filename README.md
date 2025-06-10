@@ -16,6 +16,4 @@
 3. **Input a U.S. state code**, and the model fetches current weather alerts for that region.
 4. **Receive contextual responses** from the LLM, powered by MCP.
 
-## Example Usage
 
-User inputs:
